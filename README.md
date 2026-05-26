@@ -1,14 +1,20 @@
 # 🧱 Brick Breaker
 
-A classic arcade-style Brick Breaker game built purely with Python's built-in
-turtle graphics library — no external dependencies required.
+A classic arcade-style Brick Breaker game built purely with Python's 
+built-in turtle graphics library — no external dependencies required.
 
-## 🎮 Features
+## 🎮 Preview
+
+![Gameplay 1](Screenshot%202026-05-26%20125001.png)
+![Gameplay 2](Screenshot%202026-05-26%20125027.png)
+![Gameplay 3](Screenshot%202026-05-26%20125135.png)
+![Gameplay 4](Screenshot%202026-05-26%20125216.png)
+
+## ✨ Features
 - 6 rows × 10 columns of colorful multi-hit bricks
 - Dynamic ball angle based on paddle hit position
 - Score tracking, 3 lives system & level progression
-- Pause (P) and Restart (R) support
-- Clean HUD with score, level, and lives display
+- Pause and Restart support
 
 ## 🕹️ Controls
 | Key | Action |
@@ -20,6 +26,4 @@ turtle graphics library — no external dependencies required.
 | R | Restart game |
 
 ## ▶️ How to Run
-python 232031004_Project_brick_breaker.py
-
-No installations needed — uses Python standard library only.
+python brick_breaker.py
