@@ -3,7 +3,7 @@
 A classic arcade-style Brick Breaker game built purely with Python's 
 built-in turtle graphics library — no external dependencies required.
 
-## 🎮 Preview
+## Preview
 
 ![Gameplay 1](Screenshot%202026-05-26%20125001.png)
 ![Gameplay 2](Screenshot%202026-05-26%20125027.png)
